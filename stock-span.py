@@ -34,3 +34,4 @@ calculateSpan(price, n, S)
  
 # print the calculated span values
 printArray(S, n)
+
