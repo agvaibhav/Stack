@@ -44,3 +44,4 @@ print(stack)
 reverse(stack)
 print("stack after reverse is: ")
 print(stack)
+
